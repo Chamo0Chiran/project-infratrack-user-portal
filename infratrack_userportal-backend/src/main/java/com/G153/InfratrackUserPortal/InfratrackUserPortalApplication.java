@@ -9,5 +9,4 @@ public class InfratrackUserPortalApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(InfratrackUserPortalApplication.class, args);
 	}
-
 }
